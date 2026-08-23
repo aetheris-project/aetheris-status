@@ -12,6 +12,7 @@
  <a href="https://aetheris-status.vercel.app"><img src="https://img.shields.io/badge/Live-aetheris--status.vercel.app-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live status"></a>
  <a href="https://aetheris-status.vercel.app/api/status"><img src="https://img.shields.io/badge/Status%20API-JSON-10b981?style=for-the-badge" alt="Status API"></a>
  <a href="https://aetheris-docs.vercel.app"><img src="https://img.shields.io/badge/Docs-aetheris--docs.vercel.app-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
+ <a href="https://github.com/aetheris-project/aetheris-android">Android</a>
  <a href="https://discord.gg/6GcfebuT2A"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
